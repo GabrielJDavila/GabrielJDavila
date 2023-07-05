@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Gabriel Davila, a front-end developer with experience designing and creating static sites and web applications for small businesses. I love problem solving, finding solutions, and leaning into my creative toolkit to build projects. I'm currently developing my skills further with the Scrimba Front-End Bootcamp and Career Path, an online course that teaches you everything you need to know to be a great front-end developer with the best practices. I'm driven by curiosity and a need to challenge myself; web development ticks those boxes perfectly! I love collaberating with fellow developers, as it enhances not only my own skills but others as well, as we all learn from each other.
+I'm Gabriel Davila, a front-end developer with experience designing and creating websites and web applications for small businesses. I love problem solving, finding solutions, and leaning into my creative toolkit to build projects. I'm currently developing my skills further with the Scrimba Front-End Bootcamp and Career Path, an online course that teaches you everything you need to know to be a great front-end developer with the best practices. I'm driven by curiosity and a need to challenge myself; web development ticks those boxes perfectly! I love collaberating with fellow developers, as it enhances not only my own skills but others as well, as we all learn from each other.
 
 ### Some things I'm currently working on:
 
