@@ -8,5 +8,5 @@ I'm Gabriel Davila, a front-end developer with experience designing and creating
 
 🌱 I’m currently learning advanced React through the Scrimba Bootcamp. I'm also learning Firebase on the side, as it is something I need to learn for projects I'm building on the side.
 
-### My Skills
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,figma,github,nodejs,vite,wordpress,vscode,atom)](https://skillicons.dev)
+### My Main Skills
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,figma,git,github,vscode)](https://skillicons.dev)
