@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Gabriel Davila, a front-end developer with experience designing and creating websites and web applications for small businesses. I love problem solving, finding solutions, and leaning into my creative toolkit to build projects. I believe programming - and tech in general - are the closests things to superpowers that we have as humans. I want to do my part to develop this field further!
+I'm Gabriel Davila, a front-end developer with experience designing and creating websites and web applications for small businesses. I love problem solving, finding solutions, and leaning into my creative toolkit to build projects. I'm also big into fitness, and like looking for ways to intergrate my two passions.
 
 October 2023 - !! Finished the Scrimba Frontend Developer Career Path !!
 
