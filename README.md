@@ -11,4 +11,4 @@ October 2023 - !! Finished the Scrimba Frontend Developer Career Path !!
 🌱 I'm looking to enroll in university to earn my B.S. in Software Engineering. I'm also learning to have a better understanding of Node.js, Typescript, and Tailwind CSS.
 
 ### My Main Skills
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,nodejs,tailwind,html,css,firebase,figma,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,js,nodejs,tailwind,html,css,postgres,firebase,figma,git,vscode)](https://skillicons.dev)
